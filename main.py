@@ -2,5 +2,5 @@
  print(f"Hello, {name}!")
  def goodbye(name):
  print(f"Goodbye, {name}!")
- greet("Everyone")
- goodbye("GitHub"）
+ greet("GitHub and VSCode, Everyone")
+ goodbye("GitHub")
